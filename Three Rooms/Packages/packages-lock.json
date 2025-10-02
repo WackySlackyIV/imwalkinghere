@@ -191,6 +191,13 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.render-pipelines.core": {
       "version": "17.0.4",
       "depth": 1,
@@ -300,6 +307,24 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "com.untoldgarden.meadow": {
+      "version": "0.0.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.untoldgarden.xref": "0.2.59"
+      },
+      "url": "http://35.189.115.164:4873"
+    },
+    "com.untoldgarden.xref": {
+      "version": "0.2.73",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.render-pipelines.universal": "17.0.3"
+      },
+      "url": "http://35.189.115.164:4873"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
